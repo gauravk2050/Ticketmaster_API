@@ -1,0 +1,11 @@
+# Files to ignore
+*.csv
+database.db
+.env
+
+# directories to ignore
+venv/
+data/
+__pycache__/
+/.pytest_cache/
+.vscode/
